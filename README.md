@@ -14,12 +14,12 @@
 
 | 　　　　　 | すきな戦技 |
 |:-----------|:-----------:|
-| #1         | This        |
-| #2         | column      |
-| #3         | will        |
-| #4         | be          |
-| #5         | right       |
-| #5         | aligned     |
+| #1         | 炎撃        |
+| #2         | 剣舞　      |
+| #3         | 輝石のつぶて |
+| #4         | 巨人狩り     |
+| #5         | 嵐脚　　　　　|
+| #5         | 王騎士の決意  |
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
