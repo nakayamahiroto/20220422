@@ -4,6 +4,8 @@
 
 *かなり~~クソゲー~~**難しい**のでよければ試してみてください*
 
+![お試し](https://pbs.twimg.com/media/FQ3sRUYakAYAfso?format=png&name=small)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
