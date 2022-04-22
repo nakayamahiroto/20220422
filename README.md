@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## こんにちは
 
 You can use the [editor on GitHub](https://github.com/nakayamahiroto/20220422/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
