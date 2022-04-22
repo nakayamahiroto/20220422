@@ -1,8 +1,8 @@
-## こんにちは
+## こんにちは　41l00015です
 
 試しにgithubで前に作った [シューティングゲーム](https://nakayamahiroto.github.io/) のページを貼り付けます
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*かなり~~クソゲー~~**難しい**のでよければ試してみてください*
 
 ### Markdown
 
