@@ -12,15 +12,14 @@
 
 試し表
 
-|  対人で強いと思った通常戦技|
-|:-----------|:-----------:|
-| #1         | 炎撃  　　   |
-| #2         | 剣舞    　   |
-| #3         | 輝石のつぶて  |
-| #4         | 巨人狩り     |
-| #5         | 嵐脚        |
-| #6         | 王騎士の決意 |
-
+| Left align | Right align | Center align |
+|:-----------|------------:|:------------:|
+| This       | This        | This         |
+| column     | column      | column       |
+| will       | will        | will         |
+| be         | be          | be           |
+| left       | right       | center       |
+| aligned    | aligned     | aligned      |
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
