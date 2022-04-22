@@ -10,6 +10,17 @@
 
 ![お試し](https://pbs.twimg.com/media/FQ3sRUYakAYAfso?format=png&name=small)
 
+試し表
+
+|  対人で強いと思った通常戦技|
+|:-----------|:-----------:|
+| #1         | 炎撃  　　   |
+| #2         | 剣舞    　   |
+| #3         | 輝石のつぶて  |
+| #4         | 巨人狩り     |
+| #5         | 嵐脚        |
+| #6         | 王騎士の決意 |
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
