@@ -13,13 +13,13 @@
 試し表
 
 | Left align | Right align |
-|:-----------|------------:|:------------:|
-| これ       | This        | This         |
-| column     | column      | column       |
-| will       | will        | will         |
-| be         | be          | be           |
-| left       | right       | center       |
-| aligned    | aligned     | aligned      |
+|:-----------|------------:|
+| これ       | This        |
+| column     | column      |
+| will       | will        |
+| be         | be          |
+| left       | right       |
+| aligned    | aligned     |
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
