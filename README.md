@@ -12,7 +12,7 @@
 
 試し表
 
-| Left align | Right align | Center align |
+| Left align | Right align |
 |:-----------|------------:|:------------:|
 | これ       | This        | This         |
 | column     | column      | column       |
