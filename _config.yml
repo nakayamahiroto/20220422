@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: のホームページ
 description: GitHub Pagesで作りました
 logo: /logo.png
+plugins:
+  - jekyll-sitemap
