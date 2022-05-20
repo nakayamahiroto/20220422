@@ -1,6 +1,6 @@
 ## こんにちは　41l00015です
 
-試しにgithubで前に作った [シューティングゲーム](https://nakayamahiroto.github.io/) のページを貼り付けます
+試しにgithubで前に作った [シューティングゲーム](https://nakayamahiroto.github.io/2021/) のページを貼り付けます
 
 *かなり~~クソゲー~~**難しい**のでよければ試してみてください*
 
